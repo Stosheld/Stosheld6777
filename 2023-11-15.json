@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Ross",
+  "age": 32,
+  "address": {
+    "street": "Kifkem Way",
+    "city": "Ulawaep",
+    "state": "DE",
+    "zip": "86462"
+  },
+  "contact": {
+    "phone": "(411) 369-7971",
+    "servicePhone": "800785536"
+  },
+  "birthday": "1999-09-29T23:22:38.581Z",
+  "ip": "28.158.27.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Pigusi ovamu tojir joz ac roansiz eghotuhu ku va ub no ikovi fula tet nes to icu nivrig. Pazeder kuir posaf su hegeti gubeladi pib eha ni wofavwe ezu ajjuk vi luma. Pafove efo vihnehfu luwtetag suhbiz aka fa jowu wevmiruc eh sir aheibku oli.",
+    "bio": "Eniher vofaad cef kek duc huckibdu ajufa difoce lokuzit faj atagoguw hu sep bice was abocerzud lo fa. Uli jadhinub ih udbeku ok zepcesrij nabvuror lodume um rujefe funen omsopdi he. Soj kid obuugras be ceh va dipnavi fa esbi noritum esohogci rekgewi zodeso hirewvaj. Sowru voij apdilwud av nevu kubenli tipruv vielwif vasififa zancuc horcokhu dondaptop it hobseden gawhegu dog ilcetez gow. Roh panij tutvebnuj likpi dokiozu jetca jajdul sa daksu wa gu dogbik ne bavlezoba ce osavopi wec catentu. Ne wakim tu bugojuoda ci jotpaj ubiuse hel tucohle pokec fum conne lepow afe ba ruzjev. Ulu ah igahaku osiro fuhbapgi vu an nakara on caalsot bidewu fugugaevu afizo durhew biccok joruw."
+  },
+  "apiKey": "53ebad058d8fbc2ba7cc65cb87a0ff482b3c19a6da65f39e05a92d8915acf47e",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
