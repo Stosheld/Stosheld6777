@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Gibson",
+  "age": 49,
+  "address": {
+    "street": "Irdus Circle",
+    "city": "Zagzorno",
+    "state": "OK",
+    "zip": "30305"
+  },
+  "contact": {
+    "phone": "(633) 635-2439",
+    "servicePhone": "800262682"
+  },
+  "birthday": "2004-05-10T22:40:12.323Z",
+  "ip": "151.13.154.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo ozasi kis divorsed kirupa ofbec dir jok zo kahpiabo huv uw li sor vojaw. Bez wucpiw futambar irimeos lom gazwuk luem hoddo raosko gasired zaluvzim uctifki benir ep nusavnok fotsehro. Isi haz bepamruj betti enori mojaga bovputul pave ruorku miw zumi sonfi revol utpafguz.",
+    "bio": "So imnav alcac eloutofas tudaluim goboom zi medba bi pukva bo hot. Aghah gad nujkeka sacobmi celajfu ku peke lalwabnij go rajsi dokzik wo kufruhu camabep hi hijeita itueso uziaho. Pi omunet ne caz jajmedet bemop fosa fo kac mabbo zuk izufuv bo li baj fu hop ij. Lapre zihlotji sikapno lirepav wetriapu vuamkin hulavim vohab ditujbe kudalza cobetug ujacejda weumi read ojoweel azdec zetwiz dozivdav. Husovje cevesafu juzduv lewivego paheboku josuma zuzfahug gajdajze het os wunejwiz filbe vemno gowina fu. Lotdo av wedgu vodsased nuwbef baw mi il mibipi gusezpup zajga lomwuc isikak."
+  },
+  "apiKey": "52d58cfcddd6e6dd15552f4e096d1fa97a841ba8cfa7b721dccfeae38d5564c7",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
