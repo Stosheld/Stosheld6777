@@ -1,0 +1,26 @@
+{
+  "name": "Amy Jenkins",
+  "age": 39,
+  "address": {
+    "street": "Mowga Parkway",
+    "city": "Duhirsuh",
+    "state": "WY",
+    "zip": "30400"
+  },
+  "contact": {
+    "phone": "(744) 202-5225",
+    "servicePhone": "800186974"
+  },
+  "birthday": "1996-04-20T16:49:46.710Z",
+  "ip": "146.54.45.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Ac jos ajumuhso hazok gaha vun pij detse putcugbu zoekjas red piruh gi fidipit pu jewgazfi mafdowre. Bom tafre em vad rurdew vuovniw zu jam pawuf ge regbi rotipow hucotdob zi wij zov womomir. Puickiz gidvo ude lomaluz ji ji riniz ozo nin caju akwil letcikje maihwop. Jokimlor wo fep alhikco mo je omfu dehacu el sewval ji omabusvol boce.",
+    "bio": "Perbipi windebhu zi juzaz iz rizeta ujocovu ahrev fecaed kuz sa oloteke. Bomzoem mabove nus har vobjokuwo boz mesnucvel pololsen diojavu deojasi dameb talwas befa. Retgijap terjebvi onuver tumvigu ziftaj gevjef gemow ija fibeg ha ka sihur mamhapo diwenoh ub so."
+  },
+  "apiKey": "4b748f45e48da6986b60490b306542b4bb9cf7e79bdfbf4000de373240e0b6e3",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
