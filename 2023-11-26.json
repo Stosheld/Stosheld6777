@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Wright",
+  "age": 54,
+  "address": {
+    "street": "Ofozi Pike",
+    "city": "Ciacaeco",
+    "state": "NY",
+    "zip": "92320"
+  },
+  "contact": {
+    "phone": "(367) 211-5153",
+    "servicePhone": "800754387"
+  },
+  "birthday": "2000-01-22T01:33:36.852Z",
+  "ip": "252.53.121.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Os zitdachuc hawese wolhutwob nilas otu guavzi pucpowozu ome zoono bijon voir gisre nipuste. Bovobicog uzovoge rewik ofa vanima za podze pousobi jil waucibog memewa gic jidaptup si su faraswu huh vupite. Taihi we jeleh vevujuf fuhhotal bosi kehuw luhlo hu uzi aj tukdeawo huasoguk ot kiktabasi pu puhonnu rebaw. Mosfuw vin fewtiuv po ged bu zufav pi sudev jedaf cirkoc fadjuj.",
+    "bio": "La metvatho muc ti ticbabul ge ohozimdem jiaku fil zuale dakcorvif davzulu ogumdol sumwucum na remhi. Pib neztonbap radbechem fol ceigmo wum nuf uszemo vicuri colvok unofuuni nerun egadovos jomek bowisu wafag fag be. Dohho jieco tenu zofgoz wa legwo fiv ogud wizcam mon dezoebo kuf."
+  },
+  "apiKey": "37fdc0415096b04e2b5c8d82f82414c3e4cb2a8c542ea8ca47aedb6e3a76ae92",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
