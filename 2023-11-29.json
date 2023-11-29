@@ -1,0 +1,26 @@
+{
+  "name": "Frederick Day",
+  "age": 20,
+  "address": {
+    "street": "Fupul Glen",
+    "city": "Latdundep",
+    "state": "NH",
+    "zip": "66907"
+  },
+  "contact": {
+    "phone": "(648) 370-9939",
+    "servicePhone": "800764134"
+  },
+  "birthday": "1964-05-29T16:46:30.435Z",
+  "ip": "58.52.121.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Hup un omakizoz neafpus fa lunmajot ijnap ablo gusovo ra littaje wisubive fet neh si zejsug ga orcibec. Aweegoizu go bohemwo wu ildiguj ulvun teecna rogve ben ve na do saesuro ko woj. Pucmohwa kejep dirok rosafwo ossojha fa kejtoela suvpoksih lekecmos nuzeg jun agesufna te rop codutsuz haljile.",
+    "bio": "Lu cuh usdutuc lafkaveg rutedmim wucog iloloz zerolfar lujcikla fuhra ta ku. Oj cur retmebum di pe fukzoika igvev folpukaw busegwu ucuudi wo iwoeze pilatotej ucga er lajalow. Sezu ju mi hacrew ivipe libersa ra isuner cevil topwe fevodce mabvij te buvu."
+  },
+  "apiKey": "737a2a06cea97ad01522bde4f8ba5d8e959353ad1f2238be620f9ddb6e091857",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
