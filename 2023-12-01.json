@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Pena",
+  "age": 53,
+  "address": {
+    "street": "Wogu Road",
+    "city": "Rogikif",
+    "state": "OR",
+    "zip": "14311"
+  },
+  "contact": {
+    "phone": "(254) 622-6167",
+    "servicePhone": "800442228"
+  },
+  "birthday": "1996-08-12T23:45:36.069Z",
+  "ip": "70.119.120.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Za gotcohhok nupzutda noje uv dufbek bakwe za wokmu mo levloafu zol up ekvintol filsotni upimo kud. Pafamca zeza jekmim sogup tuom be anuvu gic musre ga efu gu voilu juebe busgu ovuwucloh da. Te zophep nuovwos ko luguicu azake cifuwop fojujet ceh ci so ki. Lapolik wa ujono binis mup topeno emepa la jitu sakapa tosaf is ezkikzu zif joeca zivonif. Gamzeres bispe cil wewka jupvulotu otogec oj orneddoz ke uh ze malaalo nol meffuwma ob wu sinmuv ceocge. Ozutig zaotive higvaem rupu itziot jiek afvekbuz guzohah borcal vetkosuv pumar ku alagon duz be.",
+    "bio": "Ola cakuhmal oru huer ezhos jez bu vabuf hadob wa wief uvamedim urecoip no cavezger rair cusas. Riv ru pimo wahu verafokiv kozauda sobvambur nenu olweh zal azi lerken sopuhu jug sibnul tev. Li la lupbo jiva pelda timnir weribisod ne tusisjan obpifvis asuce sikapsi vevfamic dicu po pe si efirovte."
+  },
+  "apiKey": "f1f23ddb81cce45e528ce0f4851bafb4399a8483102d11fd6657ce00b28c2da9",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
