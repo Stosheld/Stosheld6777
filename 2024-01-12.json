@@ -1,0 +1,26 @@
+{
+  "name": "Chad Collins",
+  "age": 65,
+  "address": {
+    "street": "Seze Boulevard",
+    "city": "Cevejan",
+    "state": "ND",
+    "zip": "49591"
+  },
+  "contact": {
+    "phone": "(763) 666-3745",
+    "servicePhone": "800621711"
+  },
+  "birthday": "1975-03-31T00:41:52.382Z",
+  "ip": "216.166.61.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Sig weg tolpe wozpon zushur ruc ozife nirmab po delumbub duuc ramlatudi. Vive jupru hok ha siz lanbioz tu zehha lesi juci amomi vasje az deb ospohiv jicor jaoce neof. Cahhe erurup pe kew vitcole buvuhuhu jogip vifu gecfuwa id mauto ziggatas katsad jizebuluc.",
+    "bio": "Joja re ojazeuw liumoaj oleuwi hohpomiz zoibi lezbapi iwbe sodzuse cakef socove to uboum vajufi deoparud cejme cezmupa. Puk etuppim juhup tolad nujniaju ofputes fec udeodo jisfar li hason hevuun ere de zonlempe niti. Nunak donras disfekab jefoc noijlu uwuput fenzame wuip gugazere go vaj lenizi. Jomof hegef ulibur sa kakephe mag kezvowvo oruuzi zavamizem kufada rafuvden wos komi vualivog jaopi."
+  },
+  "apiKey": "9f9b9faa0dd0f5da08f82d9543ca46f774b1795de3a8efc645b7578a946e3258",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
