@@ -1,0 +1,26 @@
+{
+  "name": "Glen Coleman",
+  "age": 42,
+  "address": {
+    "street": "Luctuh Parkway",
+    "city": "Tuzuda",
+    "state": "DC",
+    "zip": "86784"
+  },
+  "contact": {
+    "phone": "(556) 279-1021",
+    "servicePhone": "800711843"
+  },
+  "birthday": "1977-09-01T18:10:11.380Z",
+  "ip": "68.32.248.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Dowfav juavsor vuwpunza viosuhuj bohal wulike hu puta rok wi coba pev ocioc ike biwal. Wir emopa vihganci mujof rusut ca humva ne coicuge wowfeodo mar uggu mimuhhe zuj hagud batjuju. Ujewis cengafo uh nonamak pup giednak irbi wuwoj kucu ibelepdi ko jegkipim fu geduhe tiwopik zaz. Zo funaoni ija kif win veen uhoflew fa kodoom ufatew fa lattelhi.",
+    "bio": "Toelpap ne wizok eju tadezo gizottah damimte wetilrek fuspab mog gidag mepvibpos. Li wuvacek mejapgus decari ni oswied ceih somurni tenafo cigizen ditcer uwusufu cozilo. Duale kukvu jif imlolwis dec ponecum fi jodosnej salzib zipaktas tewuf ze ebububo me gat."
+  },
+  "apiKey": "e0691d40c5c23995fe016f403ae06a2ecfdb3c706c3a4c5a2d0af1c943032b2d",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
