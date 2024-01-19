@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Castro",
+  "age": 20,
+  "address": {
+    "street": "Bogun Key",
+    "city": "Kecmijfut",
+    "state": "DE",
+    "zip": "70511"
+  },
+  "contact": {
+    "phone": "(869) 681-5810",
+    "servicePhone": "800218998"
+  },
+  "birthday": "1961-08-17T10:58:55.790Z",
+  "ip": "220.108.188.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Beluh labkiib zunaf kudmijfo umowhab fe fajercoh biema jir suve gujbidic ud tihomofo orhe vutni atwev. Dep goeriawe zi faet dikca one jepaj cav ziemu efowa saahita mugur henekac zodeh. Vidi lelsipo ceja cadegfav junsiz ca ejjut akfaj japze hatcemmo rekamget anko javge hazaho.",
+    "bio": "Iwako ev tet ifagizat fori zeskazewo opo virci immev lolgabin cizaz vatikad. Towemaz haaz gi athe bo gajhud icda nutukha doki juhe lu accis fir. Jowa gaknil efzesraf vag wok du niha cernikki ucuvol fo okasodcu varolafi aw rezpoc. Hew gosac fi jevju tem haf nep ahejihki tici kaz welomsew repuj."
+  },
+  "apiKey": "335571d0b230f4c23cd7f675d23013d04e9b3bb6932e3333747d73222785ab16",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
