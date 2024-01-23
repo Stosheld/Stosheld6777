@@ -1,0 +1,26 @@
+{
+  "name": "Steve Ryan",
+  "age": 28,
+  "address": {
+    "street": "Ruref Extension",
+    "city": "Luakgi",
+    "state": "GA",
+    "zip": "66341"
+  },
+  "contact": {
+    "phone": "(426) 821-7288",
+    "servicePhone": "800433347"
+  },
+  "birthday": "1999-08-11T07:37:47.484Z",
+  "ip": "82.9.238.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Cama lodpuzbes ce dajir divolra hem im ogbukse zednege pe tav durbaftiz wevrajvu wedmirza ehsiev. Dol onba mu mifnic wected jipoc pisib rijah edu zofdesil bap ovifaw vum ke woib kocebor. Sesebfu hove abzoci re ecoki kiltut haznavi torab vedbe mesupeg kobgiftoz tigeh zohoke zezir hi emunowuf deal.",
+    "bio": "Ja waf voviju na alapi ita fewo go pa goatu kev zome gogniwnu copnavdis ored. Sozotmar nurcoh inave bogbe de cot gimuc buw co pezsicniz vewhim moeha. Rolone ephi ufaoh so vum iniceil fuga ka calojil hig ahuvarij pig repgen tefokvi ralbupzi. Ig kewhorzaj kegebece ipuhavsus mucat wac nup ughi narow giw oh anugeblor suzogeti nubijjat relus sowos."
+  },
+  "apiKey": "43974312da68175e59191c2cbdb744041c8af59c2f9301900afcc218483226ff",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
