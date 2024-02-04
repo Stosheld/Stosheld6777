@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Yates",
+  "age": 19,
+  "address": {
+    "street": "Tisre Mill",
+    "city": "Kotupegu",
+    "state": "AZ",
+    "zip": "87640"
+  },
+  "contact": {
+    "phone": "(626) 706-1725",
+    "servicePhone": "800336159"
+  },
+  "birthday": "1994-10-24T20:58:57.783Z",
+  "ip": "231.168.217.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Roklap li aknugvok ga mifoz odizalna moopilo poz suikgi ocajas na situ uwpa togocgel esachaw. Danigno en itad te hubsudod vaksagfa mutsa kum milrizcu ati luhu las zuj emehe fizdig pikralak vur jorliz. Jore iw comivki kowi su moregsa odiroj si zuta vicajudih loke ticpolodi uli ju uwi. Miibi polven pe zo vos nibof relromec mofazfu jupocip ahakepoc ve kuzuj teut jejti obtovu revzu umucesesi. Lur zo wos nepov kupmasus ju nomgom suaw nuh ni es ta onoluglo laomo.",
+    "bio": "Sape fefrikfo amgi dafih col wug rewrugral ojerfud mujdu wenlimri fop cokun kat vinacet buvat ateijaoki. Rusih bogwiuw dogisjij wazbofa ewi kohig elmewew gufzuko kefakon upe caot eruluhdad coc gis goroode wih omoma suzubseb. Robuvmam piew roza pigrodej hahu ojopim penkafa kolabi vepkob ziwes efpaw ziwhimap namrogpo otejibu co mus fu."
+  },
+  "apiKey": "8fe009ad801762d9a387e6dc1a0c5b7bc89063b95cd0864545d9b2cf78c0579a",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
