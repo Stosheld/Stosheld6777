@@ -1,0 +1,26 @@
+{
+  "name": "Iva Thomas",
+  "age": 62,
+  "address": {
+    "street": "Ubmo Court",
+    "city": "Tadzisen",
+    "state": "SC",
+    "zip": "86972"
+  },
+  "contact": {
+    "phone": "(567) 583-3340",
+    "servicePhone": "800957223"
+  },
+  "birthday": "1995-01-03T22:39:43.831Z",
+  "ip": "104.88.133.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi vuokilah ze ubpo wu goir fir pusal voali hawon ziwev zibon dudkega ic. Cetag cew giukipe tujatu fizimot ajdivut lojjavo hucu si zacozum moblise ivutug. Cuhsi pacti fedli juzliwlez oh jev foneli te zicdo sicwawmop wuhi pu iru bak keamako pabulow lukil anucac.",
+    "bio": "Enu domtokro zeflegno unalihuw ogaipelu cugotaro cajtuhza kujeva munbo zughad foemwis hamdafuz powlibaf be. Ifnan bionona dagof kikabhez zopozjan lijpuf piknid ejtavfun wese je ocafajel bopos secwofwe. Sakiid hur ceid ni iwaroliv hoabtol ahoro henout zozmor cepma cuga lo agina. Piwkam ah mosji pijbocri isilile kefaw jihde jureg no gakukvep dul vumbov gatwoleh giajo epu gasesaag wokregka. Odu wisajoozi ehkima lijtanjuf huguc asnimag sud farurusu vazeb ra apzug iwi liarpi fobror koro. Uw sarlahov nedku do ibuhiwip obeebi tojavwo cubhoh mevfagap cahaag jira acjergir ofobujfug."
+  },
+  "apiKey": "83df4f680b4fdd5f242dbb9cc36fc9c8088b97b55de6697d501d50a1d2205b86",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
