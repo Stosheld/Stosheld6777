@@ -1,0 +1,26 @@
+{
+  "name": "Lee Brewer",
+  "age": 63,
+  "address": {
+    "street": "Zoomo Lane",
+    "city": "Ecemajtu",
+    "state": "NM",
+    "zip": "26608"
+  },
+  "contact": {
+    "phone": "(905) 889-8915",
+    "servicePhone": "800431697"
+  },
+  "birthday": "1973-03-24T07:54:10.860Z",
+  "ip": "80.239.85.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot cinatdu godkoj pu uba culgik ru egazom heg va uba we mavoave lud domazno jiwcog. Eri mef kabufe kaahi ajaha zasa izegum hehonca capil wo nuhodimob beciat fe nivnakami guwwa ewokamuw lukuuba. Ibudokzup ucedefgo ma fa ozoro la udaid mez go figgava sofbittuc doh benamta.",
+    "bio": "Uburu bij ohduofe no wiehfef cutinuk zevceba duzdifmo luz le pu at zetsi cu ohesiti va. Fozimuw no hekgipofi menfas kor vog sotobo jueha epugaoz kudih ukucmi dok. Fafhopji nufra johwog hol tacraco lada ed bisvi gov sizineg ane ve cog darawil."
+  },
+  "apiKey": "ae6ab6a33ea624576bc48b9e3ba927282b994de63210c404ac3c1b16bb90da61",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
