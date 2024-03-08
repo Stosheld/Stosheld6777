@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Reynolds",
+  "age": 22,
+  "address": {
+    "street": "Ivne Parkway",
+    "city": "Fatdudaje",
+    "state": "MI",
+    "zip": "10825"
+  },
+  "contact": {
+    "phone": "(241) 699-7748",
+    "servicePhone": "800588922"
+  },
+  "birthday": "1997-11-11T09:08:26.174Z",
+  "ip": "214.239.155.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Ole anijazob firi nulogcez akaluhoz vemu vi fuhhecum tuhne pih vovne ul kow po. Bolbal ke ba joj owodagji owazalhon bilotege be cero matboste limu legzi jesedof cugfog paojibij fen. Ezufubvo hubusi afu woflelri uznuktu idifid akbugnap isi virus padogi onepikpo oh uhobagnuw.",
+    "bio": "Rebusfop sog zaeglij ujoekeli nohor fepcagkuv uz zumbighu li luhonsaz iwsod jahcapibe fen vicafpip bivoh ilouja. Bicegbi linec bufseka ginbo tam ven valadi zehanipa rehiuw loha ko ta ot ok. Votu to hap ar zif viher nadhi ugucuemo raf satamhal ocuhaod gobi jowomec nekieh cipo zow de. Zibzupom jevoha ileeni ku nawalwiz meelusah bono ta meufepi defsowkaj fazve oge. Hel omtu mesuawu hu ifajoh ciup sopapiz ojize cu jubno pevmam ha jolpid fawuluk motifhir keacuhib vujbu fuoca. Jop azfuvko umvu riema mituki goglancim zuditbo bunwa kinpecir zine siettas hu emnuciw kuwwa."
+  },
+  "apiKey": "5089cff6b2d66e78502b020b272ad53699e73b4b5b31e7e7abe53b12dc7b0f46",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
