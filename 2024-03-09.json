@@ -1,0 +1,26 @@
+{
+  "name": "Melvin Strickland",
+  "age": 26,
+  "address": {
+    "street": "Nogmul Park",
+    "city": "Sojajba",
+    "state": "CO",
+    "zip": "08086"
+  },
+  "contact": {
+    "phone": "(526) 661-2048",
+    "servicePhone": "800489937"
+  },
+  "birthday": "1960-10-30T02:28:55.235Z",
+  "ip": "77.14.217.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Minlewge sizpe es kuhkurmod ot zuvkabziz dakafu je pelajef luksa pa migroptul hit vagen how ropekza. Assif bedruzen gekuca serhok uferoip zirsioje sa ete uviwa ciev la ne. Diduzjut ibilifeb zicivi gagjazar vip ima gecfa sa wututfo bezic ubo fafiuzo lejfofpis wat timaj.",
+    "bio": "Saurna lasagtu sapohudol serefem zu iwhufcef joiv mulocan gaino se dum wacnoipo beku varotizop hat wovtuh jezvog poeso. Afbu vimu nuson nanap jilhoz farmal mevmo jalef zagzam dupbak fap ofhihafu jadev subcoet na. Ubieh ri lued gajaf indazig su aplomu di sufcaw rawal picvijtap ekeneju zu jomna isadoj dis."
+  },
+  "apiKey": "b150f78a145d3823bcf0909fece5a8c55838766549cf288840859eb415f814c8",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
