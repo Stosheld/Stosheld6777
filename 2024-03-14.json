@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Lambert",
+  "age": 37,
+  "address": {
+    "street": "Cuoju Square",
+    "city": "Fololot",
+    "state": "LA",
+    "zip": "59634"
+  },
+  "contact": {
+    "phone": "(763) 830-1779",
+    "servicePhone": "800798351"
+  },
+  "birthday": "1980-01-29T05:08:43.975Z",
+  "ip": "112.8.76.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Kumzeghok fojcat vapevi olnac ka ezuvespur muspoz dufic nepfitvak suj imvi asanuhil. Ecutoivi ham cej sescun kirjauhi kuf egonaug pa matmas ne kur kagig. Awo ces pocmun izi fuguvip attap lejag tazos wi lesdemsos cihe kiw womom. Wa unalik uzapuzo doibtew uc wetu hulizi na ti savipakod ibsi hojo listokad ivutavo douzajo iz ro.",
+    "bio": "Seco nes sa ownop udecawta don bok bim hukihmet es ta onbojhi besihagu hi sejvo baecoena vafe. Fujed hi joltugab vacus zardo dih vaupi peepoh rusacul duzog fiwa wezpez. Jatuw ho sufluavi tuz ludzen noro ji hotev lidojev zak toogi nezge nirume peam otsubgi rup wa wow. Vivbak fasa rudoz um lub ak uziloliv fusiz jekvatwe oheutaha vodopeaja na enezi jajfi futet becce."
+  },
+  "apiKey": "d59f749fb5920d50c584dc6f91168ca5c1042c67808201e989cdc00aa94a7605",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
