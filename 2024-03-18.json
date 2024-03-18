@@ -1,0 +1,26 @@
+{
+  "name": "Anne Roy",
+  "age": 58,
+  "address": {
+    "street": "Ahanu Park",
+    "city": "Waihihi",
+    "state": "MT",
+    "zip": "42929"
+  },
+  "contact": {
+    "phone": "(927) 937-7126",
+    "servicePhone": "800764573"
+  },
+  "birthday": "1985-06-24T16:40:24.675Z",
+  "ip": "18.37.44.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Dufadu era bejca dad goh fiwokde di idawedlit suvkem fu apag siog kisovmes. Bihce bo ceba eroan licupaw ro fowupe escer cig lid la ilepu gokvohil sukuvzah hukhozjaj. Ciwnib vu ikicap fij hid ewjofli wohita now ezizub genoj rubodfen biptis.",
+    "bio": "Jo otuzu ohlej ja azmik edu turvo do ki ovaruje fusawo ubockur ema juf gajduak itwi. Wi aciupuuza kulo sak zukhofef jopogdoh kut fobi zeke zinubovol owo ejmaezi je hi pacwu adso. Ofu te ruju unwufik itu neolifu jojambet hodbasu ken ze bubuci iwe wut japugi misdu ti. Fanobo roppu fi fojew ewebimi wih wa vuzviten ova afe nelbatlan da piri."
+  },
+  "apiKey": "5eab919bbf299acfb1bfe1d1492259947030f6c8dd519addb2c0c1c2a227ec94",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
