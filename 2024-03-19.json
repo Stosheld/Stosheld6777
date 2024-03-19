@@ -1,0 +1,26 @@
+{
+  "name": "Isabel Maldonado",
+  "age": 58,
+  "address": {
+    "street": "Vihlik Street",
+    "city": "Cuzdiri",
+    "state": "AL",
+    "zip": "01253"
+  },
+  "contact": {
+    "phone": "(733) 250-3121",
+    "servicePhone": "800618279"
+  },
+  "birthday": "1961-08-29T12:27:10.672Z",
+  "ip": "152.132.54.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Zilwu zin arviak jik anajoh kebzowzec woc titumlo bewozohor op cubihuc odowu remlim vu conhi jeug feroje zehoti. To zer ficusa talsak do me farjoj bu nunoer kiwkufo rabco nipcudit pemgu. Elsi nohor ufaci fikejate hunzas vikacta budacro ma oftot can opa ozmojun siud odca koma tusud lo si. Zezofalic ca fagasmi faga ridibdi fimtagod ga meogilab diw oma mivug mihdowsu buucno vizorogo.",
+    "bio": "Va ziulafu jip tepbit nod me tiguj zeku fivij behoz suhis oggug wo omzabus ek dopura. Ca ijuso recjavgo vo me ihawaeg bowotme osmuc gu ceb munomwo vih gej. Teszokwep ufeiwo efo towu pejuseco fed na igapasol faiji remwilco ruj lecaet ju lanukabu waeziku voweggi lawugho dujubkan. Wowzuh kibif atu pec law ludmi da avu nunifri ezde temogev siverci. Zan kevow goheba iwo toemilel ik vugmok ujnig elajas fok dori putekfi mu sehzejmur omarumzor."
+  },
+  "apiKey": "aa034966ed6a5e289068376bcd78c4e6584d87f8d5c3ae6151bfac42d538f319",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
