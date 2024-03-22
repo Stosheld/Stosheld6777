@@ -1,0 +1,26 @@
+{
+  "name": "Emily Williams",
+  "age": 21,
+  "address": {
+    "street": "Vesej Center",
+    "city": "Gijtipra",
+    "state": "WY",
+    "zip": "51131"
+  },
+  "contact": {
+    "phone": "(554) 252-2427",
+    "servicePhone": "800867392"
+  },
+  "birthday": "1982-05-17T17:00:00.736Z",
+  "ip": "16.144.57.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajirac si dak pa ujalu ode togiv poktudpes li bonigcun no miucvoz. Vuc makwod ce duhe fefo jif zefog wot kinje ni hi ze nekouz ramece. Sirrer afo pu onibabes ef danuza kubu jemovo dajaf win cicadup ussalkaz rivret sav ok uveok natov.",
+    "bio": "Si paw buw kojipmaz hikinte zegvoduz zejwi dip hebgafwab ovuofe gotzewam awo valteevi pujlof jair miwopig. Ses cin jifipewu rervetvim deccaw jajhawza arpalo sepasih vednat caec ovgatpi notkumop inemo cubsioku ni fakfu. Jupleksi nu jorub rup disodi eweic ke ehi pici jokpoga lanob lomwaw wopwapop. Jezozi loturav os ussev jonfow hud zifefad pelud nicbo eb cutazin mahur."
+  },
+  "apiKey": "6f55fbb6428a249bcc29f424f359d7ea0f4a8524b6195b6b5df81cfbba3790b4",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
