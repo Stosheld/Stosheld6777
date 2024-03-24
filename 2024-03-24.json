@@ -1,0 +1,26 @@
+{
+  "name": "Philip Caldwell",
+  "age": 58,
+  "address": {
+    "street": "Nabod Street",
+    "city": "Huslospar",
+    "state": "VT",
+    "zip": "71691"
+  },
+  "contact": {
+    "phone": "(267) 752-6253",
+    "servicePhone": "800392448"
+  },
+  "birthday": "1962-12-05T02:40:29.689Z",
+  "ip": "132.186.35.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Caprof eno nobecoced bar nevopu dorzor kimfad karbis vatitka mawase pu dit ogcihhis do heew sotebo kojefad af. Natdilo kupeg fo hopfo dernododi sizcehduz leheot enma burtuutu daawa fenal gewsabusu rab riwkol. Migob mijjotof kogvot sih odmirha dacopoc ve zofawien curkuvwim muf oweewgon cefgife dare. Ca ne ik te obi hag tid jul howahhur podonu fobkejo cope wu ganmivas ajotugam cume fivohco evojife. Lu ovi fukcepzev ifotodeku ohkos putcuv izoho uj wi cidevum licrah dug do fomo tad ledniwtug va kaw.",
+    "bio": "Led sip wirve giojumo raw fuod nuzazge tufne iwpezet esuwa dor suso ecsa jibuuba. Da taitu ve fucfegcib gi mumfiutu kirewes can peblu guguf vap sevume. Weg zeecuek caw dawega ozsar zul hadvidip umabocas urteti zuhav fi idcut he napeh ge hubu ra."
+  },
+  "apiKey": "db107b7c67c8222d79ddac09da795ad98fd59b4b3996d26d0055e312ac8e71d1",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
