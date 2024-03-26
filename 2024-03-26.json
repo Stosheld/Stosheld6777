@@ -1,0 +1,26 @@
+{
+  "name": "Terry Wilson",
+  "age": 23,
+  "address": {
+    "street": "Polsot Plaza",
+    "city": "Fopciic",
+    "state": "MA",
+    "zip": "47896"
+  },
+  "contact": {
+    "phone": "(823) 985-4604",
+    "servicePhone": "800988541"
+  },
+  "birthday": "2000-01-18T19:30:22.722Z",
+  "ip": "76.184.250.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiwaf maris fivatoam ameco dafni di ugutu osizalu ilhi save tohagnin jujlu. Ado jopdokap je tozfu hucaus vuled pa nol uboju toho ze sihejet farep sewiwomaf zidkuh hohsektad gebom. Wi dazbutet onewejoku unejam im suw giwcin afioz piwje vizvihwo dikugoz wombek bo lodwaki wad ed siiggu. Akziv ibahap je jipavoh unoajbij cit be wobzoj jorigiv vop wevi vi ka.",
+    "bio": "Nilus pew ubihatzu fiep jor dedpatne mitew ewa keipfo govodit atoti dab bujsuc. Gafnunu cu hufbaniv muza era meduaha rid febetze zuhok vaz nugosup luweni riz utgaci iwimi zih wepuzjo nucugiw. Ezna cisenu gil juecwat jeof suabfip vegcusbuj unune suc am te pukidasa. Ad umzorgon wa va no taco agajo on kurlahel ro buc gocdok eninuvam fuanad. Rewnu ovsivi tabfij vitap ewhi owijevlu ivjogisi urlap hoejones dazo la rib ku nil bida azdajeve ru. Nok zoigizo olcur potjonoh locid wez fiati kawgo hepu vo ruf vupiw likov."
+  },
+  "apiKey": "fbb52bcec6e72e54e792c5464f7d7ba60c028e1f98041d361684a7a6d0f1cc22",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
