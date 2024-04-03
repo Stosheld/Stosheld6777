@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Montgomery",
+  "age": 35,
+  "address": {
+    "street": "Hujo Street",
+    "city": "Isizicod",
+    "state": "SC",
+    "zip": "76602"
+  },
+  "contact": {
+    "phone": "(987) 761-5402",
+    "servicePhone": "800416927"
+  },
+  "birthday": "1959-08-03T05:46:47.358Z",
+  "ip": "149.176.122.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohinoruk fan ca to wi melagewaf bol dene puku tutonu ri afeveti zisudiser. Uhewo adgemaj wazko av viwuh hifuma laf aj kodbib jimihfip sogpe nicud. Hoomepoj jev ewu vusdeol utousmeh mofadpev luk kahvac nom hune wakep met vufuvse paddapa.",
+    "bio": "Aderegiz tilosepab ahhe fosmeotu ajo ari cewuzcaj ta oka gaheutu diw rusezos sikeghi cibecjo itohedec okrejo iwvuf galaros. Billizhuz hi nanes lunojfe wowini fudajdeg ni nabam nildipoj nohaggi je heharaj buksoj ed avi rem ijofad vuto. Rec hawu ful wid dodkicfe bunjat hik duariab fuk weboge eza fatti rojo hunezuj mumi."
+  },
+  "apiKey": "0667fcc1123534399d753d64c47e1d077c0ebc76039a3857bc72eb8019593c11",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
