@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Lambert",
+  "age": 54,
+  "address": {
+    "street": "Casif Manor",
+    "city": "Wegahu",
+    "state": "OR",
+    "zip": "91442"
+  },
+  "contact": {
+    "phone": "(906) 682-6408",
+    "servicePhone": "800268963"
+  },
+  "birthday": "1963-05-05T13:09:10.265Z",
+  "ip": "234.242.235.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Pihvo saksimwil ruk lefdug esinanuh sez huw tir vu nowzas hifili nutik lufheh duh. Egvan ud natfahzor nub ahjispo wizdenus zejamu liomez saog kiwew levuh osiki hubopeme ibjejeg ov cafnuchop hidbelruj kobgaz. Jopu lutrat naoso ruh sugmuv taip tibij lezbukdop sioz ulecop mirutpop cocroov lutfot bob iko uzame wugna. Vemmo vuv curowbo akjehu so leganmep valoklu suvtamo ad herif pizipek jipruncos dubulot ic cec lam. Lo za ilacaem ka zat meol bujeeli ef me lucab piibimop gil umtoz uvabara tabu imna ra pudto. Get mec zudhar ko harokidi cogkoltir ta devekreb huazobo ceeg sodo ezhizor rirhac inlefba moopeaze.",
+    "bio": "Ac to lov ere at movzej kefil no wohizo roggedti jufgubu cif osu. Ali latef kafif hibarifa enihiltir rufa cudipug cub bokvuce tap awa moni jehhul iz ga. Oj nun tizubona hi avo zov odfuboco wudjerci um dositi wodvaw su jeale. Uhuhudho geve wajahim niek ali bo huvpoju ecsizo zus otonansa sizho powdutjo raze geljuh."
+  },
+  "apiKey": "3d889ea9a2176323079a36b463e6a62eb903c8f7a5ae3f36c8525d8e5a2bdbf2",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
